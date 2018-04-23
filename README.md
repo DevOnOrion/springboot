@@ -1,2 +1,2 @@
 # springboot
-springboot学习 idea
+springboot thymeleaf模板引擎
